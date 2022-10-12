@@ -1,6 +1,6 @@
 class Github {
-    constructor(){
-        this.client_id = '9fd783085eb3c97339b2';
+    constructor(){ // Register app with github and then enter client id and client secret
+        this.client_id = '9fd783085eb3c97339b2'; 
         this.client_secret = '120f99314046ca88866f2d3764b7ffc105398cdf';
     }
 
